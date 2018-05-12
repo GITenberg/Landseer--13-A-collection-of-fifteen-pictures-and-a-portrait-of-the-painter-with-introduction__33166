@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '4845'
     url: http://www.gutenberg.org/2009/agents/4845
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33166#Landseer--13-A-collection-of-fifteen-pictures-and-a-portrait-of-the-painter-with-introduction_
 gutenberg_issued: '2010-07-15'
 gutenberg_type: Text
 identifiers:
