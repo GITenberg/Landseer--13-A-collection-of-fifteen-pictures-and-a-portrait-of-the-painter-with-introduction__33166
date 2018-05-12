@@ -1,0 +1,29 @@
+_repo: Landseer--13-A-collection-of-fifteen-pictures-and-a-portrait-of-the-painter-with-introduction__33166
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hurll, Estelle M. (Estelle May)
+    alias: Hurll, Estelle May
+    birthdate: 1863
+    deathdate: 1924
+    gutenberg_agent_id: '4845'
+    url: http://www.gutenberg.org/2009/agents/4845
+description: ''
+gutenberg_issued: '2010-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33166'
+  lccn: 01026238
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Landseer, Edwin Henry, Sir, 1802-1873'
+title: "Landseer\r\nA collection of fifteen pictures and a portrait of the painter\
+  \ with introduction and interpretation"
+url: http://www.gutenberg.org/ebooks/33166
